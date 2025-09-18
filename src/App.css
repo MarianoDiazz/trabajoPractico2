@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+.carusel-img {
+  max-height: 85vh;
+}
+
+.footer {
+  background-color: #0000;
+  padding: 2rem;
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.titulo-carusel {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #f8f9fa;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  letter-spacing: 2px;
+  border: 2px solid #212529;
+  border-radius: 10px;
+  padding: 10px 20px;
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.4);
+}
